@@ -1,0 +1,9 @@
+node_modules
+backend
+tests
+test_reports
+memory
+.git
+*.log
+.env.local
+.DS_Store
